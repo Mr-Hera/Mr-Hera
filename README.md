@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Hera
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python development with Django
 - 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me ...
 
