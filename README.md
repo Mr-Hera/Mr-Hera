@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Hera
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python development with Django & PHP development with Laravel for back end as well as Javascript with React for front end
-- 💞️ I’m looking to collaborate on python/php related projects
+- 👀 I’m a Full Stack Software Developer
+- 🌱 I’m continuously exploring Javascript frameworks for front end & Ruby on Rails/Laravel for backend
+- 💞️ I’m open to collaborate on any related projects
 - 📫 How to reach me: Mr-Hera (GITHUB)...
 
 <!---
