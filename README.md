@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Hera
 - 👀 I’m a Full Stack Software Developer
-- 🌱 I’m continuously exploring Javascript frameworks for front end & Ruby on Rails/Laravel for backend
+- 🌱 Tech Stack: Vanilla Js | React.Js | Next.Js | Tailwind CSS | Ruby On Rails | Laravel
 - 💞️ I’m open to collaborate on any related projects
 - 📫 How to reach me: Mr-Hera (GITHUB)...
 
