@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr-Hera
 - 👀 I’m a Full Stack Software Developer
-- 🌱 Tech Stack: Vanilla Js | React.Js | Next.Js | Angular | TypeScript | Tailwind CSS | Ionic | Ruby On Rails | Laravel | Flask | Docker
+- 🌱 Tech Stack: Vanilla Js | React.Js | Next.Js | Angular | TypeScript | Tailwind CSS | Ionic | Ruby On Rails | Laravel | Flask | Docker | Azure
 - 💞️ I’m open to collaborate on any related projects
 - 📫 How to reach me: Mr-Hera (GITHUB)...
 
