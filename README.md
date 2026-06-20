@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Mr-Hera
 - 👀 Software Engineer | Backend & Cloud Systems | APIs & Distributed Applications
 - 4+ years of practical experience designing, developing, and implementing production software systems and solutions across web, mobile, API, and cloud environments with a focus on backend engineering, scalable architecture, databases, system integration, and API development.
 - 🌱 Tech Stack: C#/.NET | Python | PHP | JavaScript/TypeScript | SQL | Docker | Kubernetes | Azure | AWS
